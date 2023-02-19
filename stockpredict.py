@@ -11,7 +11,7 @@ from datetime import datetime
 
 
 # Load the stock data
-data = pd.read_csv("AAPL.csv")
+data = pd.read_csv("InsertName.csv")
 
 # Preprocess the data
 data = data.dropna()
@@ -75,7 +75,7 @@ print("Predicted price for next month: ", next_price[0])
 
 plt.plot(data["Date"], data["Close"], label="Actual Price")
 plt.plot(np.array([next_month]), next_month_price, 'ro', label="Predicted Price")
-plt.xlabel("Date (in days since 2010-01-01)")
+plt.xlabel("Date")
 plt.ylabel("Closing Price (USD)")
 plt.legend()
 plt.show()
