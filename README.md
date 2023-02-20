@@ -40,8 +40,6 @@ The predicted stock price for the next month is also displayed.
 
 ## Improvements
 
-# The code can be improved by: 
-
 Using more advanced machine learning algorithms such as deep learning.
 
 Using more features in the model such as volume and price.
