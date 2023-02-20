@@ -38,15 +38,17 @@ The best model is trained using the entire training data and used to make predic
 The predicted stock price for the next month is also displayed.
 
 
-##Improvements
+## Improvements
 
-#The code can be improved by:
+# The code can be improved by: 
 
 Using more advanced machine learning algorithms such as deep learning.
 
 Using more features in the model such as volume and price.
 
 Tuning the hyperparameters of the model to improve performance.
+
+Improving the data visualization to make it more intuitive and informative.
 
 Using more advanced techniques for data preprocessing such as feature scaling.
 
