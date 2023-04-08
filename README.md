@@ -14,13 +14,15 @@ This Python code is used for predicting stock prices using machine learning. It 
 
 ## How to Use
 
-1. Save the stock data in a CSV file.Clone the repository and navigate to the directory where the code is located.
+1. Save the stock data in a CSV file. 
 
-2. Open the code in your favorite editor.
+2. Clone the repository and navigate to the directory where the code is located.
 
-3. Replace "InsertName.csv" with the name of the csv file containing the stock data.
+3. Open the code in your favorite editor.
 
-4. Run the code in a Python environment.
+4. Replace "InsertName.csv" with the name of the csv file containing the stock data.
+
+5. Run the code in a Python environment.
 
 
 ## Data Preprocessing
